@@ -1,0 +1,15 @@
+# Archive directory for old CLDS builds
+archive/
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Tooling cache
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
